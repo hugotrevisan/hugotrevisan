@@ -4,9 +4,9 @@
 - ⚡ Atualmente estudando Sistemas para Internet
 
 <div align="center">
-  <a href="https://github.com/trevisan21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trevisan21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevisan21&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/hugotrevisan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugotrevisan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugotrevisan&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
