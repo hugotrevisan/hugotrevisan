@@ -1,4 +1,4 @@
-![image](https://github.com/hugotrevisan/hugotrevisan/assets/93890383/082c7695-021a-4480-bfb7-6295a809b50a)## 
+
 
 - 💻 Back-End Developer under construction
 
