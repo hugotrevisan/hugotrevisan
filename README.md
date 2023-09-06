@@ -12,7 +12,7 @@
   ##
   <div style="display: inline_block"><br>
   <img align="center" alt="CS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java-4.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java-14.svg">
 </div>
   
   ##
