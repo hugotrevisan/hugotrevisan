@@ -20,7 +20,7 @@
   <div>
   <a href="https://www.instagram.com/trevisandu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-  <a href="https://www.linkedin.com/in/hugo-trevisan-257985224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hugo-trevisan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
    <a href="www.google.com"><img src="https://static.wikia.nocookie.net/tibia/images/0/0f/Ferumbras.gif/revision/latest/top-crop/width/360/height/360?cb=20171218212506&path-prefix=en" target="_blank"></a>
     
