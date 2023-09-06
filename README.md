@@ -1,7 +1,7 @@
-## Oi, me chamo Hugo Trevisan
+## 
 
-- 🌀 Front-end
-- ⚡ Atualmente estudando Sistemas para Internet
+- 💻 Back-End Developer under construction
+
 
 <div align="center">
   <a href="https://github.com/hugotrevisan">
