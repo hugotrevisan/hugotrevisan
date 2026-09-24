@@ -1,6 +1,6 @@
 
 
-- 💻 Software Engineer under construction
+- 💻 Software Engineer
 
 
 <div align="center">
